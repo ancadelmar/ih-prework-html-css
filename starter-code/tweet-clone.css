@@ -1,0 +1,77 @@
+.background {
+background-color: rgb(244, 248, 249);
+}
+
+.tweet {
+background-color: rgb(255, 255, 255);
+border: 2px solid rgb(255, 232, 237);
+border-radius: 0.5em;
+}
+
+.username {
+color: rgb(0, 0, 0);
+font-size: 14px;
+font-weight: bold;
+font-family: Helvetica;
+}
+
+.useraccount {
+color: rgb(104, 109, 129);
+font-size: 14px;
+font-family: Helvetica;
+}
+
+.text {
+color: rgb(0, 0, 0);
+font-size: 16px;
+font-family: Helvetica;
+}
+
+.date {
+color: rgb(101, 116, 127);
+font-size: 16px;
+font-family: Helvetica;
+}
+
+.reply {
+color: rgb(105, 120, 130);
+font-size: 14px;
+font-family: Helvetica;
+}
+
+.button {
+    border: 5px, solid, rgb(85, 172, 238);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+}
+
+.block1 {
+height:100px;
+width:100%;
+}
+
+.profile {
+height:40px;
+width:20%;
+}
+
+.block3 {
+display: inline;
+height: 20px
+width: 25%
+}
+
+.block2 {
+display: inline;
+height: 40px;
+width: 25%;
+}
+
+
+
+
+
+
